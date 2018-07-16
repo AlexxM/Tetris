@@ -17,7 +17,7 @@ namespace Tetris
 	internal sealed class Program
 	{
 		/// <summary>
-		/// Program entry point.
+		/// Здесь был Влад.
 		/// </summary>
 		[STAThread]
 		private static void Main(string[] args)
